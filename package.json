@@ -1,0 +1,62 @@
+{
+  "name": "zet-health-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@googlemaps/react-wrapper": "^1.2.0",
+    "@mui/icons-material": "^7.3.4",
+    "@mui/material": "^7.3.4",
+    "@reduxjs/toolkit": "^2.9.1",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.12.2",
+    "firebase": "^12.4.0",
+    "lottie-react": "^2.4.1",
+    "pdfjs-dist": "^5.4.296",
+    "react": "^19.2.0",
+    "react-datepicker": "^8.8.0",
+    "react-dom": "^19.2.0",
+    "react-hot-toast": "^2.6.0",
+    "react-image-crop": "^11.0.10",
+    "react-pdf": "^10.2.0",
+    "react-redux": "^9.2.0",
+    "react-scripts": "5.0.1",
+    "react-use-gesture": "^9.1.3",
+    "redux-persist": "^6.0.0",
+    "swiper": "^12.0.3",
+    "web-vitals": "^2.1.4",
+    "ws": "^8.18.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "react-router-dom": "^7.9.4"
+  }
+}
