@@ -169,3 +169,6 @@ temp/
 
 # Capacitor
 .nx/cache
+
+# TODO
+.TODO.md

@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/gmacwebindia/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gmacwebindia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/gmacwebindia/Downloads/app/HealthExpress-main/android/app/.cxx/RelWithDebInfo/4o366wb3/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/gmacwebindia/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/gmacwebindia/Downloads/app/HealthExpress-main/android/app/.cxx/RelWithDebInfo/4o366wb3/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/gmacwebindia/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/gmacwebindia/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

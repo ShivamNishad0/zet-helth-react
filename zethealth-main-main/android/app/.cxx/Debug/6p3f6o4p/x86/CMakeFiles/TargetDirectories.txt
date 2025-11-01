@@ -1,0 +1,2 @@
+C:/Users/Piyus/OneDrive/Desktop/zethealth-main/android/app/.cxx/Debug/6p3f6o4p/x86/CMakeFiles/edit_cache.dir
+C:/Users/Piyus/OneDrive/Desktop/zethealth-main/android/app/.cxx/Debug/6p3f6o4p/x86/CMakeFiles/rebuild_cache.dir

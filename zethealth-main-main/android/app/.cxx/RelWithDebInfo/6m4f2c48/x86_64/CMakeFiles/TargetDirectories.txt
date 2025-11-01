@@ -1,0 +1,2 @@
+/Users/gmacwebindia/Downloads/app/HealthExpress-main/android/app/.cxx/RelWithDebInfo/6m4f2c48/x86_64/CMakeFiles/edit_cache.dir
+/Users/gmacwebindia/Downloads/app/HealthExpress-main/android/app/.cxx/RelWithDebInfo/6m4f2c48/x86_64/CMakeFiles/rebuild_cache.dir
